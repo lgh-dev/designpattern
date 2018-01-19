@@ -6,6 +6,6 @@ package com.lgh.designpattern.abstractactorypattern;
 public class Circle implements Shape {
     @Override
     public void draw() {
-        System.out.println("创建Circle");
+        System.out.println("创建Circle2");
     }
 }
